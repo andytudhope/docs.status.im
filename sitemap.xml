@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://status.im/docs/status_react_structure.html</loc>
+    
+    <lastmod>2018-09-21T09:49:57.022Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/send_transaction_flow.html</loc>
+    
+    <lastmod>2018-09-21T09:49:13.663Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/add_your_dapp.html</loc>
+    
+    <lastmod>2018-09-21T09:44:16.728Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/status_optimized.html</loc>
+    
+    <lastmod>2018-09-21T09:38:17.744Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/introduction.html</loc>
+    
+    <lastmod>2018-09-21T09:34:08.097Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/http-debugging.html</loc>
+    
+    <lastmod>2018-09-20T20:13:15.544Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/extensions_tutorial_chat_command.html</loc>
+    
+    <lastmod>2018-09-20T20:13:15.543Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/build_status_go.html</loc>
+    
+    <lastmod>2018-09-20T20:13:15.542Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/build_desktop_google_breakpad.html</loc>
+    
+    <lastmod>2018-09-20T20:13:15.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/build_desktop_jenkins.html</loc>
+    
+    <lastmod>2018-09-20T20:13:15.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/build_desktop_troubleshooting.html</loc>
+    
+    <lastmod>2018-09-20T20:13:15.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/build_desktop.html</loc>
+    
+    <lastmod>2018-09-20T20:13:15.539Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/index.html</loc>
+    
+    <lastmod>2018-09-18T15:50:58.798Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/tutorials/index.html</loc>
+    
+    <lastmod>2018-09-18T15:45:48.436Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/templates/index.html</loc>
+    
+    <lastmod>2018-09-18T15:45:48.436Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/extensions/index.html</loc>
+    
+    <lastmod>2018-09-18T15:45:48.429Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/chat/index.html</loc>
+    
+    <lastmod>2018-09-18T15:45:48.416Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/news/2018/06/20/embark-3-1-released/</loc>
+    
+    <lastmod>2018-09-18T15:45:48.416Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/news/2018/05/04/embark-3-0-released/</loc>
+    
+    <lastmod>2018-09-18T15:45:48.415Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/news/2017/06/28/embark-2-5-released/</loc>
+    
+    <lastmod>2018-09-18T15:45:48.415Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/news/2017/10/25/embark-2-6-released/</loc>
+    
+    <lastmod>2018-09-18T15:45:48.415Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/status_web_api.html</loc>
+    
+    <lastmod>2018-09-06T13:20:52.521Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/tutorials/extensions_tutorial_chat_command.html</loc>
+    
+    <lastmod>2018-09-06T13:20:52.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/userguide.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.243Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/testing.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.243Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/tribute_to_talk.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.243Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/security_threat_modeling.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.242Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/security_new_features.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/security_sensitive_data.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/security_existing_features.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/security_github_labels.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/security_process.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/security_experiment.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/security_champions.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.240Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/report_a_bug.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.240Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/nimbus.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.240Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/embark.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.238Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/ens_usernames.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.238Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/intro_desktop.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.238Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/intro_dapps.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.238Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/contributor_guide.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.237Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/build_status.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.235Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/FAQs.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.223Z</lastmod>
+    
+  </url>
+  
+</urlset>
