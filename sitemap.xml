@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/docs/build_desktop_google_breakpad.html</loc>
-    
-    <lastmod>2018-09-20T20:13:15.540Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://andytudhope.github.io/docs/build_desktop_jenkins.html</loc>
     
     <lastmod>2018-09-20T20:13:15.540Z</lastmod>
@@ -73,6 +66,13 @@
   
   <url>
     <loc>https://andytudhope.github.io/docs/build_desktop_troubleshooting.html</loc>
+    
+    <lastmod>2018-09-20T20:13:15.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://andytudhope.github.io/docs/build_desktop_google_breakpad.html</loc>
     
     <lastmod>2018-09-20T20:13:15.540Z</lastmod>
     
@@ -114,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/chat/index.html</loc>
-    
-    <lastmod>2018-09-18T15:45:48.416Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://andytudhope.github.io/news/2018/06/20/embark-3-1-released/</loc>
     
     <lastmod>2018-09-18T15:45:48.416Z</lastmod>
@@ -128,14 +121,21 @@
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/news/2018/05/04/embark-3-0-released/</loc>
+    <loc>https://andytudhope.github.io/chat/index.html</loc>
+    
+    <lastmod>2018-09-18T15:45:48.416Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://andytudhope.github.io/news/2017/06/28/embark-2-5-released/</loc>
     
     <lastmod>2018-09-18T15:45:48.415Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/news/2017/06/28/embark-2-5-released/</loc>
+    <loc>https://andytudhope.github.io/news/2018/05/04/embark-3-0-released/</loc>
     
     <lastmod>2018-09-18T15:45:48.415Z</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/docs/security_new_features.html</loc>
+    <loc>https://andytudhope.github.io/docs/security_sensitive_data.html</loc>
     
     <lastmod>2018-08-07T09:48:19.241Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/docs/security_sensitive_data.html</loc>
+    <loc>https://andytudhope.github.io/docs/security_experiment.html</loc>
     
     <lastmod>2018-08-07T09:48:19.241Z</lastmod>
     
@@ -219,14 +219,14 @@
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/docs/security_process.html</loc>
+    <loc>https://andytudhope.github.io/docs/security_new_features.html</loc>
     
     <lastmod>2018-08-07T09:48:19.241Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/docs/security_experiment.html</loc>
+    <loc>https://andytudhope.github.io/docs/security_process.html</loc>
     
     <lastmod>2018-08-07T09:48:19.241Z</lastmod>
     
@@ -254,7 +254,14 @@
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/docs/embark.html</loc>
+    <loc>https://andytudhope.github.io/docs/intro_desktop.html</loc>
+    
+    <lastmod>2018-08-07T09:48:19.238Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://andytudhope.github.io/docs/intro_dapps.html</loc>
     
     <lastmod>2018-08-07T09:48:19.238Z</lastmod>
     
@@ -268,14 +275,7 @@
   </url>
   
   <url>
-    <loc>https://andytudhope.github.io/docs/intro_desktop.html</loc>
-    
-    <lastmod>2018-08-07T09:48:19.238Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://andytudhope.github.io/docs/intro_dapps.html</loc>
+    <loc>https://andytudhope.github.io/docs/embark.html</loc>
     
     <lastmod>2018-08-07T09:48:19.238Z</lastmod>
     

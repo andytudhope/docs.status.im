@@ -224,26 +224,23 @@ body {
   flex: 0 50px;
   margin-top: 19px;
 }
-.by-status {
-  color: rgba(255,255,255,0.6);
-  display: block;
-  font-family: "Post Grotesk Book", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-decoration: none;
-  font-size: 15px;
-  line-height: 15px;
-  margin-top: 6px;
-}
 #logo {
   text-indent: 101%;
   white-space: nowrap;
   overflow: hidden;
-  background: url("/embark-logo.svg");
-  width: 116px;
-  height: 26px;
-  -webkit-background-size: 116px 26px;
-  -moz-background-size: 116px 26px;
-  background-size: 116px 26px;
   display: block;
+  width: 40px;
+  height: 40px;
+  background-image: url("../img/status_logo.svg");
+  text-decoration: none;
+  margin: -20px 0 0 30px;
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 50%;
+  -webkit-background-size: 22px;
+  -moz-background-size: 22px;
+  background-size: 22px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 #main-nav {
   display: none;
@@ -1528,6 +1525,10 @@ a.article-title:hover {
 .footer-link:first-child {
   margin-left: 0;
 }
+.download {
+  color: #fff;
+  text-decoration: none;
+}
 pre,
 code {
   font-family: "Source Code Pro", Monaco, Menlo, Consolas, monospace;
@@ -1943,13 +1944,18 @@ select[multiple] {
 }
 .logo {
   display: block;
-  width: 116px;
-  height: 26px;
-  background-image: url("../img/logo.png");
-  -webkit-background-size: 116px;
-  -moz-background-size: 116px;
-  background-size: 116px;
+  width: 40px;
+  height: 40px;
+  background-image: url("../img/status_logo.svg");
   text-decoration: none;
+  margin: -4px 0 0 30px;
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 50%;
+  -webkit-background-size: 22px;
+  -moz-background-size: 22px;
+  background-size: 22px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .logo-sign {
   display: block;
@@ -2114,7 +2120,7 @@ select[multiple] {
   -ms-flex-pack: center;
   -webkit-justify-content: center;
   justify-content: center;
-  background-color: #4A5AB5;
+  background-color: #4564dc;
   background-image: url("../img/triangle.svg");
   -webkit-background-size: 24px;
   -moz-background-size: 24px;
@@ -2263,6 +2269,20 @@ select[multiple] {
 }
 .features-wrap {
   margin: 0 0 0 0;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-lines: multiple;
+  -moz-box-lines: multiple;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.features-wrap-2 {
+  margin: 60px 0;
   display: -webkit-box;
   display: -moz-box;
   display: -webkit-flex;
@@ -3010,7 +3030,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   color: #000;
-  background-color: #363763;
+  background-color: #4564dc;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
 }
@@ -3212,7 +3232,7 @@ a.button.button--light:hover {
 .section.section--one .section__image {
   width: 212px;
   height: 186px;
-  background-image: url("../img/image-1@2x.png");
+  background-image: url("../img/image-2@2x.png");
   -webkit-background-size: 212px;
   -moz-background-size: 212px;
   background-size: 212px;
